@@ -1,5 +1,6 @@
 package com.wcc.cms.controller;
 
+import com.wcc.cms.domain.pages.CollaboratorsPage;
 import com.wcc.cms.domain.pages.TeamPage;
 import com.wcc.cms.service.CmsService;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -20,11 +21,11 @@ public class CmsController {
 
   @GetMapping("/team")
   public TeamPage getTeamPage() {
-    return cmsService.getTeamPage();
+    return cmsService.getTeam();
   }
 
-  @GetMapping("/sample")
-  public String getStaticTeamPage() {
-    return cmsService.getSamplePage();
+  @GetMapping("/collaborators")
+  public CollaboratorsPage getCollaboratorsPage() {
+    return cmsService.getCollaborators();
   }
 }

@@ -1,221 +1,37 @@
 {
   "title": "Meet our team",
   "subtitle": "Core Team",
-  "description": "Meet our team",
+  "description": "The core team of our community is composed of visionary directors and dynamic leaders, who bring a wealth of experience and dedication to empowering women in technology. These esteemed professionals are committed to fostering an environment of growth, inclusivity and support, guiding our community toward achieving its mission and goals.",
   "members": [
     {
-      "name": "Irina Kamalova",
-      "memberType": "WCC Director",
+      "fullName": "Irina Kamalova",
+      "memberType": "Director",
       "position": "Senior Software Engineer",
       "imagePath": "assets/images/team/8.jpeg",
       "socialNetwork": [
         {
-          "name": "linkedin",
+          "type": "linkedin",
           "link": "https://www.linkedin.com/in/irina-kamalova/"
         },
         {
-          "name": "medium",
+          "type": "medium",
           "link": "https://iren-kamalova.medium.com/"
         }
       ]
     },
     {
-      "name": "Eleonora Belova",
-      "memberType": "WCC Lead",
+      "fullName": "Eleonora Belova",
+      "memberType": "Lead",
       "position": "Test Automation Engineer",
       "imagePath": "assets/images/team/7.jpeg",
       "socialNetwork": [
         {
-          "name": "linkedin",
+          "type": "linkedin",
           "link": "https://www.linkedin.com/in/eleonora-belova-7069baa5/"
         },
         {
-          "name": "github",
+          "type": "github",
           "link": "https://github.com/nora-weisser"
-        }
-      ]
-    },
-    {
-      "name": "Elena Fedorova",
-      "memberType": "WCC Lead",
-      "position": "Designer",
-      "imagePath": "assets/images/team/2.png",
-      "socialNetwork": [
-        {
-          "name": "linkedin",
-          "link": "https://www.linkedin.com/in/elena-fedorova-9ab270237/"
-        }
-      ]
-    },
-    {
-      "name": "Abhipsa Mishra",
-      "memberType": "WCC Lead",
-      "position": "Senior Software Engineer",
-      "imagePath": "assets/images/team/13.jpeg",
-      "socialNetwork": [
-        {
-          "name": "linkedin",
-          "link": "https://www.linkedin.com/in/abhipsa-mishra-684a4326"
-        }
-      ]
-    },
-    {
-      "name": "Adriana Zencke",
-      "memberType": "WCC Director",
-      "position": "Senior Software Engineer",
-      "imagePath": "assets/images/team/4.jpeg",
-      "socialNetwork": [
-        {
-          "name": "linkedin",
-          "link": "https://www.linkedin.com/in/rajaniraog"
-        },
-        {
-          "name": "github",
-          "link": "https://github.com/dricazenck"
-        },
-        {
-          "name": "medium",
-          "link": "https://medium.com/@dricazenck"
-        }
-      ]
-    },
-    {
-      "name": "Rajani Rao",
-      "memberType": "WCC Director",
-      "position": "CTO/Principal Technologist",
-      "imagePath": "assets/images/team/9.jpeg",
-      "socialNetwork": [
-        {
-          "name": "linkedin",
-          "link": "https://www.linkedin.com/in/rajaniraog"
-        }
-      ]
-    },
-    {
-      "name": "Julia Babahina",
-      "memberType": "WCC Director",
-      "position": "Lead Risk Management Specialist",
-      "imagePath": "assets/images/team/11.jpeg",
-      "socialNetwork": [
-        {
-          "name": "linkedin",
-          "link": "https://www.linkedin.com/in/julia-babahina-cism-crisc-30285440"
-        }
-      ]
-    },
-    {
-      "name": "Ying LIU",
-      "memberType": "WCC Director",
-      "position": "Head of AI",
-      "imagePath": "assets/images/team/10.jpeg",
-      "socialNetwork": [
-        {
-          "name": "linkedin",
-          "link": "https://www.linkedin.com/in/yingliu-data/"
-        }
-      ]
-    },
-    {
-      "name": "Arzu Caner",
-      "memberType": "WCC Evangelist",
-      "position": "Front-end Developer",
-      "imagePath": "assets/images/team/1.jpeg",
-      "socialNetwork": [
-        {
-          "name": "linkedin",
-          "link": "https://www.linkedin.com/in/arzucaner/"
-        },
-        {
-          "name": "github",
-          "link": "https://github.com/arzucaner"
-        },
-        {
-          "name": "medium",
-          "link": "https://arzuguneycaner.medium.com/"
-        }
-      ]
-    },
-    {
-      "name": "Silke Nodwell",
-      "memberType": "WCC Lead",
-      "position": "Data Scientist",
-      "imagePath": "assets/images/team/12.jpeg",
-      "socialNetwork": [
-        {
-          "name": "linkedin",
-          "link": "https://www.linkedin.com/in/silke-nodwell-763681172"
-        }
-      ]
-    },
-    {
-      "name": "Ekaterine Oshkhereli",
-      "memberType": "WCC Lead",
-      "position": "Data Analyst",
-      "imagePath": "assets/images/team/15.jpeg",
-      "socialNetwork": [
-        {
-          "name": "linkedin",
-          "link": "https://www.linkedin.com/in/ekaterine-oshkhereli-46266559/"
-        }
-      ]
-    },
-    {
-      "name": "Airat Yusuff",
-      "imagePath": "assets/images/team/6.jpeg",
-      "memberType": "WCC Lead",
-      "position": "Software Engineer",
-      "socialNetwork": [
-        {
-          "name": "linkedin",
-          "link": "https://www.linkedin.com/in/khairah-yusuff/"
-        },
-        {
-          "name": "github",
-          "link": "https://github.com/khairahscorner"
-        },
-        {
-          "name": "medium",
-          "link": "https://khairahscorner.hashnode.dev/"
-        }
-      ]
-    },
-    {
-      "name": "Idayat Sanni",
-      "imagePath": "assets/images/team/5.jpeg",
-      "memberType": "WCC Evangelist",
-      "position": "Front-end Developer",
-      "socialNetwork": [
-        {
-          "name": "linkedin",
-          "link": "https://www.linkedin.com/in/idayat-sanni-a46b16102/"
-        },
-        {
-          "name": "github",
-          "link": "https://github.com/IdayatSanni"
-        }
-      ]
-    },
-    {
-      "name": "Madhura Chaganty",
-      "memberType": "WCC Lead",
-      "position": "Engineering Manager",
-      "imagePath": "assets/images/team/3.jpeg",
-      "socialNetwork": [
-        {
-          "name": "linkedin",
-          "link": "https://www.linkedin.com/in/madhurachaganty"
-        }
-      ]
-    },
-    {
-      "name": "Sonali Goel",
-      "memberType": "WCC Lead",
-      "position": "Senior/Lead Engineer",
-      "imagePath": "assets/images/team/14.jpeg",
-      "socialNetwork": [
-        {
-          "name": "linkedin",
-          "link": "https://www.linkedin.com/in/sonali-goel-6b611522/"
         }
       ]
     }

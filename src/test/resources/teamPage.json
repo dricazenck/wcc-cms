@@ -1,36 +1,36 @@
 {
   "title": "Meet our team",
   "subtitle": "Core Team",
-  "description": "Meet our team",
+  "description": "Team description",
   "members": [
     {
-      "name": "Irina Kamalova",
-      "memberType": "WCC Director",
+      "fullName": "Irina Kamalova",
+      "memberType": "Director",
       "position": "Senior Software Engineer",
       "imagePath": "assets/images/team/8.jpeg",
       "socialNetwork": [
         {
-          "name": "linkedin",
+          "type": "linkedin",
           "link": "https://www.linkedin.com/in/irina-kamalova/"
         },
         {
-          "name": "medium",
+          "type": "medium",
           "link": "https://iren-kamalova.medium.com/"
         }
       ]
     },
     {
-      "name": "Eleonora Belova",
-      "memberType": "WCC Lead",
+      "fullName": "Eleonora Belova",
+      "memberType": "Lead",
       "position": "Test Automation Engineer",
       "imagePath": "assets/images/team/7.jpeg",
       "socialNetwork": [
         {
-          "name": "linkedin",
+          "type": "linkedin",
           "link": "https://www.linkedin.com/in/eleonora-belova-7069baa5/"
         },
         {
-          "name": "github",
+          "type": "github",
           "link": "https://github.com/nora-weisser"
         }
       ]

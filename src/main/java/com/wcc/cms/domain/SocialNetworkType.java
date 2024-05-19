@@ -9,5 +9,6 @@ public enum SocialNetworkType {
   X,
   MEDIUM,
   SLACK,
-  MEETUP
+  MEETUP,
+  UNKNOWN
 }
