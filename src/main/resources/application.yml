@@ -1,3 +1,11 @@
 spring:
   application:
     name: cms
+
+logging:
+  level:
+    root: INFO
+
+    com:
+      wcc:
+        cms: DEBUG

@@ -1,0 +1,39 @@
+{
+  "title": "Meet our team",
+  "subtitle": "Core Team",
+  "description": "Team description",
+  "members": [
+    {
+      "fullName": "Irina Kamalova",
+      "memberType": "Director",
+      "position": "Senior Software Engineer",
+      "imagePath": "assets/images/team/8.jpeg",
+      "socialNetwork": [
+        {
+          "type": "linkedin",
+          "link": "https://www.linkedin.com/in/irina-kamalova/"
+        },
+        {
+          "type": "medium",
+          "link": "https://iren-kamalova.medium.com/"
+        }
+      ]
+    },
+    {
+      "fullName": "Eleonora Belova",
+      "memberType": "Lead",
+      "position": "Test Automation Engineer",
+      "imagePath": "assets/images/team/7.jpeg",
+      "socialNetwork": [
+        {
+          "type": "linkedin",
+          "link": "https://www.linkedin.com/in/eleonora-belova-7069baa5/"
+        },
+        {
+          "type": "github",
+          "link": "https://github.com/nora-weisser"
+        }
+      ]
+    }
+  ]
+}
